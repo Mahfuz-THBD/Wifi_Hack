@@ -8,6 +8,8 @@ You Can H@ck Wifi With Your Rooted Android Device.
 ```
 https://github.com/Mahfuz-THBD/Wifi_Hack_Installer
 ```
+https://github.com/Mahfuz-THBD/Wifi_Hack_Installer
+
 ### Usage examples
 ### Note:Your Device Must Be Rooted.
 1st turn off your Wifi.
